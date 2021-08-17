@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParcyMech
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python/coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
